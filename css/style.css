@@ -1,0 +1,81 @@
+  p {
+  color: red;
+  text-align: center;
+  }
+  h1{
+    background-color: green;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  h2{
+    background-color: #e6fff7;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .moder {
+    color: blue;
+  }
+
+  .big {
+    font-size: 1.5em;
+  }
+
+  .nopaddingandmargin {
+    margin: 0;
+    padding: 0;
+  }
+
+  .centeredByMargin {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .centeredByTextAlign {
+    text-align: center;
+  }
+
+  #prviOdstavek {
+    margin-left: 100px;
+  }
+  .searchfield {
+    float: center;
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 30px;
+    background-color: #fff5cc;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .button1 {
+    background-color: #e7e7e7;
+    float: center;
+    display: block;
+    border-radius: 4px;
+    color: black;
+    text-align: center;
+    padding: 3px 3px;
+    font-size: 20px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .fbimage {
+    display: block;
+    border-radius: 8px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
